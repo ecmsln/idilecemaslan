@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="ecemaslan_banner.png" alt="Banner" width="100%">
+</p>
+
+# Hi, I'm Ecem Aslan 👋
 <h1 align="center">Hi, I'm Ecem Aslan 👋</h1>
 
 <h3 align="center">
