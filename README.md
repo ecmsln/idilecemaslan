@@ -12,6 +12,13 @@ Mechanical Engineering Student | CAD Designer | Product Development
 
 🏭 Currently working as a Mechanical Engineering Intern
 
+![Mechanical Engineering](https://img.shields.io/badge/Mechanical-Engineering-00599C?style=for-the-badge)
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk-Inventor-EF3E42?style=for-the-badge)
+![Siemens NX](https://img.shields.io/badge/Siemens-NX-009999?style=for-the-badge)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-C61A1A?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge)
+
 ⚙️ Interested in:
 
 - Mechanical Design
@@ -66,3 +73,9 @@ Mechanical Engineering Student | CAD Designer | Product Development
 LinkedIn: https://www.linkedin.com/in/idilecemaslan/
 
 Email: idilecemaslan@gmail.com
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecmsln&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecmsln&layout=compact&theme=default)
